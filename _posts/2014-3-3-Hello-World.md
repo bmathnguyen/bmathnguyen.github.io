@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: What is Computer Science?
 ---
+It is the Computer science is the study of computation, information, and automation. Computer science spans theoretical disciplines (such as algorithms, theory of computation, and information theory) to applied disciplines (including the design and implementation of hardware and software). Though more often considered an academic discipline, computer science is closely related to computer programming.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Now we will...
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
