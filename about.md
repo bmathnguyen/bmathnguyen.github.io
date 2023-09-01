@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently a 12-grade highschooler at Hanoi - Amsterdam Highschool for the Gifted. I'm interested in maths, data science, artificial intellegent, and also physics.
+I am currently a 12-grade highschooler at Hanoi - Amsterdam Highschool for the Gifted. I'm interested in maths, data science, and artificial intellegent.
 
 ## Education
 
