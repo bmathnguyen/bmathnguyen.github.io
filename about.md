@@ -28,6 +28,6 @@ Here is my [CV](files/cv2.pdf)
 
 [Linkedin](https://www.linkedin.com/in/bach-nguyen-xuan-698835219/)
 
-[Github](https://github.com/bmathnguyen)
+[Github](https://github.com/bmathnguyen)g
 
 [Old blog](https://bmathnguyen.blogspot.com/)
