@@ -20,7 +20,7 @@ I am studying 2 courses on Coursera, namely Cryptography 1 by Stanford Universit
 I have some future projects that are still not deployed yet, stay tuned!
 
 ## CV
-Here is my [CV](files/cv2.pdf)
+Here is my CV
 
 ## Contact me
 
