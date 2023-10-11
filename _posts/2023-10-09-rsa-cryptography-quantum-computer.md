@@ -44,6 +44,7 @@ We come to the idea behind RSA: RSA is based on the idea that it is extremely di
 - Receive the cipher text c. 
 - Calculate m=c^d (modN), which will be the original number that the sender sent.
 - Translate the number m back to text, to get the original message.
+
 ## RSA Attacks
 ![_config.yml]({{ site.baseurl }}/images/attacker-privacy.jpg)
 To successfully attack RSA, meaning that from c=m^e mod N, N and e, we must recover m, this forces us to know d, where d is the inverse of e mod phi(N), and to calculate phi(N), we must necessarily factor N into p.q
@@ -60,6 +61,7 @@ Make a guess r, such that r < N so that they are co-primes of each other.
 -    If the value of r^p/2 + 1 != 0 mod N, Else move to the next step.
 -    Compute d = gcd(r^p/2+1, N).
 -    The answer required is ‘d’: d is a non-trivial factor of N, from this we can imply the other prime factor by compute N/d
+
 ## Why Quantum computers are threatening the security of RSA
 
 ![_config.yml]({{ site.baseurl }}/images/quantum-fourier-transform.png)
