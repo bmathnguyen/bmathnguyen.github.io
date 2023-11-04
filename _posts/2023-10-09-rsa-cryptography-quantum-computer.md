@@ -27,7 +27,7 @@ These algorithms will soon be introduced to readers in the following articles.
 
 ## Motivation behind RSA
 ![_config.yml]({{ site.baseurl }}/images/prime-factor.png)
-We come to the idea behind RSA: RSA is based on the idea that it is extremely difficult to factor a number into its prime factorization. (With the simplest algorithm, the complexity is sqrt(N), with better algorithms such as GNFS (General Number Field Sieve), the complexity is still very large) 
+We come to the idea behind RSA: RSA is based on the idea that it is extremely difficult to factor a number into its prime factorization. (With the simplest algorithm, the complexity is sqrt(N), with better algorithms such as GNFS (General Number Field Sieve), the complexity is still very large)
 
 The public key consists of two numbers, one of which is the product of two large prime numbers. The private key is also derived from the same two prime numbers. 
 
@@ -37,7 +37,7 @@ The RSA implementation uses a lot of modular arithmetic, Euler's theorem, and Eu
 
 ## How RSA works
 ![_config.yml]({{ site.baseurl }}/images/rsa-encrypt.jpg)
-(Receiver) 
+(Receiver)
 - Choose two large prime numbers, p and q.
 - Calculate $$N=p×q$$, which will be one half of the first public key. 
 - Calculate ϕ(N)=(p−1)(q−1) (where ϕ(x) is the number of integers less than x that are relatively prime to x) and choose a number e such that (e,ϕ(N))=1. (In practice, e is often chosen to be 2^16+1=65537, although it can be as small as e=3.) 
@@ -45,11 +45,11 @@ The RSA implementation uses a lot of modular arithmetic, Euler's theorem, and Eu
 - Calculate d, which is the modular inverse of e modulo ϕ(N), meaning that de−1 is divisible by ϕ(N). d will be the private key. 
 - At this point, the receiver will make the public key (which includes N and e) public, and keep the private key d private. 
 
-(Sender) 
+(Sender)
 - Convert the message to a numerical form, typically using the ASCII character set. 
 - Calculate $$c=m^e (modN)$$, which will be the encrypted message (cipher text). 
 - Send the cipher text c to the receiver. 
-(Receiver) 
+(Receiver)
 - Receive the cipher text c. 
 - Calculate $$m=c^d (modN)$$, which will be the original number that the sender sent.
 - Translate the number m back to text, to get the original message.
