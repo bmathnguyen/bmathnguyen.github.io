@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to Cryptography
 permalink: /intro-to-cryptography-1/
-date: 2023-09-09 00:00:00 -0000
+date: 2023-08-09 00:00:00 -0000
 categories: maths
 ---
 LEARN MATH FOR WHAT?

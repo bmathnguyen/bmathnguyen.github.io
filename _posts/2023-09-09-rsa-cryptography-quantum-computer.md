@@ -2,7 +2,7 @@
 layout: post
 title: RSA encryption method and Why Quantum computers are threatening its security
 permalink: /rsa-quantum-computer/
-date: 2023-10-09 00:00:00 -0000
+date: 2023-09-09 00:00:00 -0000
 categories: maths
 ---
 LEARN MATH FOR WHAT?
