@@ -23,8 +23,8 @@ I have some future projects that are still not deployed yet, stay tuned!
 ## Teaching
 
 I love teaching and sharing knowledge. I was the main instructor at the GART Robotics Camp 2023, teaching VEX IQ and Scratch.
-![_config.yml]({{ site.baseurl }}/images/gart-teaching-1.jpg)
-![_config.yml]({{ site.baseurl }}/images/gart-teaching-2.jpg)
+![_config.yml]({{ site.baseurl }}/images/gart-teaching-1.JPG)
+![_config.yml]({{ site.baseurl }}/images/gart-teaching-2.JPG)
 I was the head organizer at the "Math Pulchra: Numbers at work" workshop organized by the Learn Math for What club. I taught basic cryptography to the students.
 ![_config.yml]({{ site.baseurl }}/images/lmfw-teaching-1.jpg)
 ![_config.yml]({{ site.baseurl }}/images/lmfw-teaching-2.jpg)
