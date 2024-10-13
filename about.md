@@ -5,8 +5,7 @@ permalink: /about/
 ---
 Hi there!
 
-I am currently a 12-grade highschooler at Hanoi - Amsterdam Highschool for the Gifted. I'm interested in maths, data science, and artificial intellegent. I'm going to pursue my undergraduate degree in Computer Science at the National University of Singapore under the ASEAN UG scholarship.
-
+I am currently a first-year Computer Science student at the National University of Singapore under the ASEAN scholarship. I'm interested in maths, artificial intellegent, and quant.
 ## Education
 
 I pursue my middle school at Giang Vo Secondary School, then go on to Hanoi - Amsterdam, majoring at Mathematics. I am now studying Computer Science at NUS.
@@ -16,9 +15,8 @@ I pursue my middle school at Giang Vo Secondary School, then go on to Hanoi - Am
 I'm building a comprehensive notes for Olympiad maths enthusiasts, with the aim of helping students with summarizing their studies, as there are many fields in olympiad maths.
 I'm planning to share the source code later on my [Github](https://github.com/bmathnguyen) and [Blog](https://bmathnguyen.github.io/)
 ### CS
-I am studying 2 courses on Coursera, namely Cryptography 1 by Stanford University and the first course in Machine Learning series by DeepLearning.AI
+I am still exploring the world of CS. Right now, I'm interested in AI and functional programming.
 
-I am also interested in quant finance but I'm still exploring the field.
 ## Teaching
 
 I love teaching and sharing knowledge. I was the main instructor at the GART Robotics Camp 2023, teaching VEX IQ and Scratch.
