@@ -9,7 +9,7 @@ I am currently a 12-grade highschooler at Hanoi - Amsterdam Highschool for the G
 
 ## Education
 
-I pursue my middle school at Giang Vo Secondary School, then go on to Hanoi - Amsterdam, majoring at Mathematics.
+I pursue my middle school at Giang Vo Secondary School, then go on to Hanoi - Amsterdam, majoring at Mathematics. I am now studying Computer Science at NUS.
 
 ## Interest
 ### Maths
@@ -18,16 +18,21 @@ I'm planning to share the source code later on my [Github](https://github.com/bm
 ### CS
 I am studying 2 courses on Coursera, namely Cryptography 1 by Stanford University and the first course in Machine Learning series by DeepLearning.AI
 
-I have some future projects that are still not deployed yet, stay tuned!
-
+I am also interested in quant finance but I'm still exploring the field.
 ## Teaching
 
 I love teaching and sharing knowledge. I was the main instructor at the GART Robotics Camp 2023, teaching VEX IQ and Scratch.
 ![_config.yml]({{ site.baseurl }}/images/GART-3-Bach.jpg)
 ![_config.yml]({{ site.baseurl }}/images/gart-teaching-2.JPG)
+![_config.yml]({{ site.baseurl }}/images/gart-final.png)
+
 I was the head organizer at the "Math Pulchra: Numbers at work" workshop organized by the Learn Math for What club. I taught basic cryptography to the students.
+![_config.yml]({{ site.baseurl }}/images/lmfw-teaching-first.JPG)
+
 ![_config.yml]({{ site.baseurl }}/images/lmfw-teaching-1.jpg)
 ![_config.yml]({{ site.baseurl }}/images/lmfw-teaching-2.jpg)
+Our teaching team:
+![_config.yml]({{ site.baseurl }}/images/teaching-team-lmfw.JPG)
 
 ## Contact me
 
